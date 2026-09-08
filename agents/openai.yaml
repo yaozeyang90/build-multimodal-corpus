@@ -1,0 +1,4 @@
+interface:
+  display_name: "多模态结构语料库构建"
+  short_description: "保留教材层级与教学活动，追溯图文关联，校验并合并独立语料文件"
+  default_prompt: "使用 $build-multimodal-corpus 从已有解析结果构建可追溯的多模态结构语料库，保留图片并输出分库与合并库。"
